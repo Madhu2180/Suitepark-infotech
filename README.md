@@ -41,11 +41,7 @@ A responsive, multi-page website built for **SuitePark InfoTech (OPC) Pvt Ltd**.
 
 ---
 
-## 📸 Screenshots
 
-![Website Screenshot](https://raw.githubusercontent.com/DemGam/Front-End-Portfolio/main/img/works/kron-dev.png)
-
----
 
 ## 🚀 How to Use
 
